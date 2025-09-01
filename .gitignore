@@ -18,6 +18,7 @@
 mono_crash.*
 
 # Build results
+./idea
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -47,6 +48,9 @@ bld/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
+
+#Angular module file
+YourRecipes.Client/node_modules/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
